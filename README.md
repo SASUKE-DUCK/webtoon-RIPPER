@@ -37,6 +37,8 @@ Webtoon Ripper is a Python script designed to effortlessly download and organize
    ```bash
    python main.py -url "https://www.webtoons.com/en/drama/whale-star-the-gyeongseong-mermaid/list?title_no=3237" -o cbz
    ```
+   
+![image](https://i.imgur.com/bql9y94.png)
 
 ## Options
 
